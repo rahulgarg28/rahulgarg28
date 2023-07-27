@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulgarg28
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning Backend development
 
 <!---
 rahulgarg28/rahulgarg28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
